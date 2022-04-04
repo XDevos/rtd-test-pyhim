@@ -5,6 +5,6 @@ class RunArgs():
     
     def __init__(self):
         pass
-
-    # def parse_args():
-    True
+      
+    def parse_args():
+        True
