@@ -7,4 +7,4 @@ class RunArgs():
         pass
       
     def parse_args():
-        True
+        pass
