@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 """Main file of pyHiM execution, include the top-level mechanism of pyHiM."""
 
-import run_args
+from run_args import RunArgs
 import data_manager
 import pipeline
 
